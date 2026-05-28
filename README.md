@@ -79,5 +79,3 @@ Scalars `t_max`, `lambda`, `N_y`, `N_z`, `J`, `K`, `kappa`, `eps_F` are also sto
   multiplications across all samples and instances) intractable. The PF–RTE
   comparison is therefore carried out at κ = 3, where both are tractable on the
   *same* matrix instances.
-- The PF empirical bundle at κ = 3 runs to `N_S = 1e6`; the analytical bounds
-  are closed-form and are drawn across the full sample range.

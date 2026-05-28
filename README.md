@@ -28,9 +28,9 @@ read directly from the saved runs.
 | Table I — Fourier error, $N=4$ | `Table 2` | `data/fourier_tables/table_N4_*.csv` |
 | Table II — Fourier error, $N=16$ | `Table 3` | `data/fourier_tables/table_N16_*.csv` |
 | Fig. — PF convergence, $\kappa=100$ | `Figure 3` | `data/convergence/pf_kappa100.csv` |
-| Fig. — $\lvert\tau\rvert$ tail, $\kappa=100$ | `fig:fourier_time_distribution` | `data/fourier_nodes/kappa100/*.npz` |
-| Fig. — PF vs RTE convergence, $\kappa=3$ | `Figure 4` | `data/convergence/pf_kappa3.csv`, `rte_kappa3_c1.csv` |
-| Fig. — $\lvert\tau\rvert$ tail, $\kappa=3$ | `Figure 5` | `data/fourier_nodes/kappa3/*.npz` |
+| Fig. — $\lvert\tau\rvert$ tail, $\kappa=100$ | `Figure 4` | `data/fourier_nodes/kappa100/*.npz` |
+| Fig. — PF vs RTE convergence, $\kappa=3$ | `Figure 5` | `data/convergence/pf_kappa3.csv`, `rte_kappa3_c1.csv` |
+| Fig. — $\lvert\tau\rvert$ tail, $\kappa=3$ | `Figure 6` | `data/fourier_nodes/kappa3/*.npz` |
 
 ## Data layout
 

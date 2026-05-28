@@ -1,0 +1,8 @@
+# Reproducibility environment for the figures and tables of
+# "Are Randomized Quantum Linear Systems Solvers Practical?"
+#
+# These are conservative lower bounds known to work; newer versions are fine.
+numpy>=1.24
+pandas>=1.5
+matplotlib>=3.6
+jupyter>=1.0
